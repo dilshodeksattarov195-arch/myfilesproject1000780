@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "smsdtringify",
+        "uuid": 984360,
+        "checksum": "e8wsde"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
